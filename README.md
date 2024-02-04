@@ -3,7 +3,8 @@
 Welcome to the Must-Do-Coding-Questions repository! Here you'll find a collection of important coding questions designed to enhance your problem-solving skills. Each topic contains questions and answers in C, C++, and Java programming languages.
 
 ## Collaborator
-- Collaborator ID: Jyoshna441
+### [Sadiq Shaik](https://github.com/sadiqshaik123)
+### [Jyoshna](https://github.com/jyoshna441)
 
 ## Repository Structure
 The repository is organized by topics, with each topic containing a set of coding questions and their solutions in C, C++, and Java.
