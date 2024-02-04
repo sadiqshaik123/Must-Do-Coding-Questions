@@ -44,6 +44,13 @@ int main() {
     scanf("%s", a);
     printf("Enter String b: "); // Fixing the typo here
     scanf("%s", b);
-    printf("%d", anagram(a, b)); // Fixing the printf format specifier
+    
+    int ans= anagram(a, b); // Fixing the printf format specifier
+    if(ans==1){
+        printf("Anagram");
+    }
+    else{
+        printf("Not anagram");
+    }
     return 0;
 }
