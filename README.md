@@ -3,6 +3,7 @@
 Welcome to the Must-Do-Coding-Questions repository! Here you'll find a collection of important coding questions designed to enhance your problem-solving skills. Each topic contains questions and answers in C, C++, and Java programming languages.
 
 ## Collaborator
+[<img src="https://github.com/{{ sadiqshaik123 }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ sadiqshaik123 }}">{{ sadiqshaik123 }}</a></sub>](https://github.com/{{ sadiqshaik123 }}/{{ Must-Do-Coding-Questions }}
 ### [Sadiq Shaik](https://github.com/sadiqshaik123)
 ### [Jyoshna](https://github.com/jyoshna441)
 
