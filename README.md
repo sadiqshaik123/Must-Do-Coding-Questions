@@ -48,9 +48,11 @@ You can navigate through the topics to find the specific coding questions you're
 Feel free to explore, contribute, and enhance your coding skills with these challenging problems!
 
 ## Collaborator
-<img src="https://github.com/sadiqshaik123.png" width="60px;"/><br /><sub><a href="https://github.com/sadiqshaik123">sadiqshaik123</a></sub>
+<img src="https://github.com/sadiqshaik123.png" width="60px;"/><br /><sub><a href="https://github.com/sadiqshaik123">Sadiq</a></sub>
 
-<img src="https://github.com/Jyoshna441.png" width="60px;"/><br /><sub><a href="https://github.com/Jyoshna441">Jyoshna441</a></sub>
+<img src="https://github.com/Jyoshna441.png" width="60px;"/><br /><sub><a href="https://github.com/Jyoshna441">Jyoshna</a></sub>
+
+<img src="https://github.com/sathvika36.png" width="60px;"/><br /><sub><a href="https://github.com/sathvika36">Sathvika</a></sub>
 
 ## Contributing
 If you'd like to contribute additional coding questions or improve existing solutions, please feel free to submit a pull request. Your contributions are greatly appreciated!
