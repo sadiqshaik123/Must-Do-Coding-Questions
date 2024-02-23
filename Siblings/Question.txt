@@ -1,0 +1,25 @@
+Write a program to find the siblings of the given integer array, if no siblings found then return -1. input1 refers to the length of the input. input2 is the values and input3 is the value for which we need to find the siblings.
+
+Example 1
+
+Input1: 5
+
+Input2: 1,2,3,4,5
+
+Input3: 1
+
+output: (-1)
+
+Explanation: As 1 is the root element which wont have any siblings so return value is -1.
+
+Example2:
+
+input1: 6
+
+Input2: 1,2,3,4,5,6
+
+input3: 5
+
+output: (4,6)
+
+Explanation: (2,3) are the children of 1 and (4,5,6) are the children of (2,3) so the output is (4,6)
